@@ -64,9 +64,6 @@ htmlcov/
 *.sublime-project
 *.sublime-workspace
 
-# Ignore Docker-related files
-docker-compose.yml
-Dockerfile
 
 # Ignore any other unwanted files
 *.bak
